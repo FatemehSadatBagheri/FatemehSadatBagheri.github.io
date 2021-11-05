@@ -1,10 +1,22 @@
 ---
 layout: posts
-title: مصاحبه با خانم سپهرآرا
+title: Successful graduates of iust
 --- 
-درمورد اساتید و نحوه ی درس خواندن صحبت کردیم و اشکالات من را در برنامه نویسی برطرف کردند
+### Parisa Shabestari
+Hardware Development Engineer-Power at
+
+### Hadi Salimi 
+R&D Engineer at Siemens
+
+### Shiva Shahrokhi
+Machine Learning Engineer at Google
+
+### Ali Niknejad
+Senior Software Engineer at Microsoft
+
 
 ## Onvan Dovvom
+
 
 - List 1
 - list 2

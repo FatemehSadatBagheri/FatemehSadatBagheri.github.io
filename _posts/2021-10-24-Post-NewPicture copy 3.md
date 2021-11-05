@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Successful graduates of iust
+title: Successful graduates of IUST
 --- 
 ### Parisa Shabestari
 Hardware Development Engineer-Power at
